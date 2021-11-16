@@ -1,2 +1,2 @@
 # composition_prediction
-Predict chemical composition using chemicla data
+Predict chemical composition using chemical data
